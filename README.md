@@ -1,5 +1,11 @@
 # Telegram Account Registration Guide | Complete Step-by-Step Tutorial (2024)
 
+<div align="center">
+
+## 🔥 **需要 Telegram 账号？加 QQ：2717344421 | 包登录 · 有质保** 🔥
+
+</div>
+
 <!-- SEO Meta Description -->
 > **Complete guide on how to create a Telegram account** - Learn to register on Telegram via iPhone, Android, or desktop. Includes verification without personal phone number, multiple account setup, troubleshooting, and security tips.
 

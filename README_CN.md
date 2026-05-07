@@ -1,5 +1,11 @@
 # Telegram 注册教程 | 完整图文指南 (2024)
 
+<div align="center">
+
+## 🔥 **需要 Telegram 账号？加 QQ：2717344421 | 包登录 · 有质保** 🔥
+
+</div>
+
 <!-- SEO 元描述 -->
 > **完整 Telegram 账号注册指南** - 学习如何在 iPhone、Android 或桌面端注册 Telegram。包括无需个人手机号验证、多账号管理、故障排除和安全设置建议。
 
