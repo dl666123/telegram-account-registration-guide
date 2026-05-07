@@ -2,9 +2,9 @@
 
 > 🔗 **English Version**: [README_EN.md](./README_EN.md)
 
-<div align="center">
+<div align="center" style="font-size:28px;font-weight:bold;margin:30px 0;padding:20px;background:#fff3cd;border-radius:10px;">
 
-## 🔥 **需要 Telegram 账号？加 QQ：2717344421 | 包登录 · 有质保** 🔥
+🔥 需要账号加 <span style="color:red;font-size:32px;">QQ：2717344421</span> | 包登录 · 有质保 🔥
 
 </div>
 
