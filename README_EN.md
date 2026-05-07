@@ -9,7 +9,7 @@
 <!-- SEO Meta Description -->
 > **Complete guide on how to create a Telegram account** - Learn to register on Telegram via iPhone, Android, or desktop. Includes verification without personal phone number, multiple account setup, troubleshooting, and security tips.
 
-![Telegram Banner - How to Create Account on Telegram](https://camo.githubusercontent.com/86ed4fb0c3acdcae9907ccea544425d675bb6871b3f363ec8bf2c7e5c1ae4782/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313032343233333834362f486f772d746f2d6372656174652d616e2d6163636f756e742d6f6e2d54656c656772616d2e77656270)
+![Telegram Banner - How to Create Account on Telegram](./images/telegram-banner.jpg)
 
 ## Table of Contents
 
@@ -51,7 +51,7 @@ Creating a Telegram account on your iPhone is quick and straightforward. Follow 
 
 Locate the Telegram app icon on your iPhone home screen and tap to launch it.
 
-![Tap Telegram icon to open the app](https://camo.githubusercontent.com/3a67ccc5cf01cbaf24d6bbe78e9afaf7fbca71d8bebacb07b241643827c86631/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031363230343135332f494d475f32303233313031365f3230333734302e6a7067)
+![Tap Telegram icon to open the app](./images/iphone-open-app.jpg)
 
 *Finding and opening the Telegram app on iPhone*
 
@@ -59,7 +59,7 @@ Locate the Telegram app icon on your iPhone home screen and tap to launch it.
 
 Once the Telegram app opens, tap the **"Start Messaging"** button to proceed to the registration process.
 
-![Tap Start Messaging button](https://camo.githubusercontent.com/f1002c5d8c61e0efbd4b8433824a6ffd5b12657fb13857824a859932bff334ab/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031363230343434322f494d475f32303233313031365f3230323832382e6a7067)
+![Tap Start Messaging button](./images/iphone-start-messaging.jpg)
 
 *Starting the Telegram registration process*
 
@@ -67,7 +67,7 @@ Once the Telegram app opens, tap the **"Start Messaging"** button to proceed to 
 
 Select your country from the dropdown menu, then enter your mobile phone number. Tap **"Continue"** to proceed.
 
-![Select country and enter phone number](https://camo.githubusercontent.com/f3689ccf0c8444865466f69950320f0d88a0bbf0bbac7517cc237bb9d49d4bc5/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130333130302f456e7465724d6f62696c654e756d626572616e64436c69636b436f6e74696e75652e77656270)
+![Select country and enter phone number](./images/iphone-enter-phone.jpg)
 
 *Entering phone number for Telegram verification*
 
@@ -75,7 +75,7 @@ Select your country from the dropdown menu, then enter your mobile phone number.
 
 A one-time password (OTP) will be sent to your registered phone number. Enter this code to verify your number.
 
-![Enter the verification code received](https://camo.githubusercontent.com/cc0d45a34b4db96358d920cd7c9dfa2e2b1f225a25f8cdb6e9416fc4ad561665/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130333233392f456e746572746865566572696669636174696f6e436f64652e77656270)
+![Enter the verification code received](./images/iphone-enter-code.jpg)
 
 *Inputting the verification code*
 
@@ -83,7 +83,7 @@ A one-time password (OTP) will be sent to your registered phone number. Enter th
 
 Enter your **First Name** and **Last Name** (optional) to complete your Telegram profile setup.
 
-![Telegram account successfully created](https://camo.githubusercontent.com/40adbc6825cc93dbe008f117ded582349073a3d7ccf4014f215f038b8a91e7de/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031363230353731372f494d475f32303233313031365f3230333130352e6a7067)
+![Telegram account successfully created](./images/iphone-profile-created.jpg)
 
 *Your Telegram account is now created*
 
@@ -99,7 +99,7 @@ The process to create a Telegram account on Android is nearly identical to iPhon
 
 Find the Telegram icon on your phone and tap to open it.
 
-![Open Telegram app](https://camo.githubusercontent.com/fb4bfd53e769d0890b98b9f8461fb7a742f98da13ee6ec89cc45c28e902bf2f0/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343132343735302f494d475f32303233313031345f3131323530312d3636302e6a7067)
+![Open Telegram app](./images/android-open-app.jpg)
 
 *Locating Telegram on Android device*
 
@@ -107,7 +107,7 @@ Find the Telegram icon on your phone and tap to open it.
 
 Open the Telegram app and tap the **"Start Messaging"** button to begin registration.
 
-![Tap Start Messaging](https://camo.githubusercontent.com/03f68d3f37ce88439b1ec026cc4dfdb8f484a61656b705c8f462526953ac262d/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343132343933382f494d475f32303233313031345f3131323533302d3636302e6a7067)
+![Tap Start Messaging](./images/android-start-messaging.jpg)
 
 *Starting Telegram registration on Android*
 
@@ -115,7 +115,7 @@ Open the Telegram app and tap the **"Start Messaging"** button to begin registra
 
 Select your country and provide your mobile phone number for verification.
 
-![Enter mobile number](https://camo.githubusercontent.com/1c4b6c144682eb5fa77b60a5aab36ee071eaee2074c4ec06607f45bd09a752b2/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130333531342f456e746572796f75724d6f62696c654e756d6265722e77656270)
+![Enter mobile number](./images/android-enter-phone.jpg)
 
 *Providing phone number for Telegram*
 
@@ -123,7 +123,7 @@ Select your country and provide your mobile phone number for verification.
 
 After entering your number, wait for an automated call to confirm your number.
 
-![Wait for verification call](https://camo.githubusercontent.com/3c225bcf3e545ef84c63bda2a3c0d4c6b0aa2251ba4eb07950214a26418a7d2b/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130333635312f57616974666f7243616c6c2e77656270)
+![Wait for verification call](./images/android-wait-call.jpg)
 
 *Waiting for Telegram verification call*
 
@@ -131,7 +131,7 @@ After entering your number, wait for an automated call to confirm your number.
 
 Enter your first name and last name in the profile fields, then tap the arrow to continue.
 
-![Enter name and continue](https://camo.githubusercontent.com/c0dcd19fb21756ca23c7e17bbf2c106b8227be2b5ef0efa6b24ed14018727ed4/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343133303831322f494d475f32303233313031345f3131333030362d3636302e6a7067)
+![Enter name and continue](./images/android-enter-name.jpg)
 
 *Setting up your Telegram profile name*
 
@@ -139,7 +139,7 @@ Enter your first name and last name in the profile fields, then tap the arrow to
 
 Your Telegram account is now ready! You can now make voice/video calls, send messages, join groups, and explore channels.
 
-![Telegram account created successfully](https://camo.githubusercontent.com/0bb767c6cfb90a3bd49223b534325a201679da9bb116abecf54b39115910db98/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343133313034372f494d475f32303233313031345f3131333032342d3636302e6a7067)
+![Telegram account created successfully](./images/android-account-created.jpg)
 
 *Your Telegram account is now active*
 
@@ -157,7 +157,7 @@ You can also create a Telegram account using your computer. Here's how:
 
 Click the Telegram desktop application icon to launch it.
 
-![Open Telegram on desktop](https://camo.githubusercontent.com/4ece190b712ad5df0667c91094cdf3524f17e446d0f3971bd1d78485c9949703/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343132313832352f494d475f32303233313031345f3131343734352d2833292e6a7067)
+![Open Telegram on desktop](./images/desktop-open-app.jpg)
 
 *Opening Telegram desktop application*
 
@@ -165,7 +165,7 @@ Click the Telegram desktop application icon to launch it.
 
 Click the **"Start Messaging"** button to proceed.
 
-![Click Start Messaging](https://camo.githubusercontent.com/f8e1933d4ffb7c3a4495d860ccc79eb255d2dd72cebbcf0031fa4bd8bdfa0490/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343132313935362f494d475f32303233313031345f3131343832342e6a7067)
+![Click Start Messaging](./images/desktop-start-messaging.jpg)
 
 *Starting Telegram registration on desktop*
 
@@ -175,7 +175,7 @@ You have two login options:
 1. **Scan QR Code** - Use your phone to scan the displayed QR code
 2. **Phone Number** - Click **"Login with Phone Number"** to enter your number
 
-![Choose login method](https://camo.githubusercontent.com/cca08c996ffa2ccc77dadd043cea7c7877886918e3101b48779f6c7613d8fb23/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343132333034352f494d475f32303233313031345f3131343930372e6a7067)
+![Choose login method](./images/desktop-login-options.jpg)
 
 *Login with phone number option*
 
@@ -183,7 +183,7 @@ You have two login options:
 
 Select your country, enter your phone number, and click **"Next"**. You'll receive an OTP code.
 
-![Enter phone number](https://camo.githubusercontent.com/37af602a26860c9f6b3c00aaa3faa7c07ffb8b5e816dc646fdce1f1857426d59/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130333930302f456e746572796f75724d6f62696c654e756d626572616e64436c69636b6f6e4e65782e77656270)
+![Enter phone number](./images/desktop-enter-phone.jpg)
 
 *Providing phone number for desktop login*
 
@@ -191,7 +191,7 @@ Select your country, enter your phone number, and click **"Next"**. You'll recei
 
 Enter the verification code sent to your phone number via SMS.
 
-![Enter verification code](https://camo.githubusercontent.com/28dfd51c82e45e0ab2f8636b70ec9966f702f49cd6322f9ccf5b98b77943aced/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130343033362f456e746572436f6465616e64436c69636b6f6e4e6578742e77656270)
+![Enter verification code](./images/desktop-enter-code.jpg)
 
 *Verifying phone number on desktop*
 
@@ -304,9 +304,9 @@ Telegram allows **multiple accounts** on the same device:
 | 5 | Select **"Log Out"** |
 | 6 | Confirm by tapping **"Log Out"** |
 
-![Open Settings in Telegram](https://camo.githubusercontent.com/3a0b92e3aec55ca3edb38eb8a682402d0e8daf496329e4c3ff71f2fce3f65994/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130343232322f436c69636b6f6e53657474696e67732e77656270)
+![Open Settings in Telegram](./images/click-settings.jpg)
 
-![Select Log Out option](https://camo.githubusercontent.com/7fbb8ced95cf109750559b93dd5654033623e2997c2a58612421614f0600a229/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130343631382f53656c6563744f675561742e77656270)
+![Select Log Out option](./images/select-logout.jpg)
 
 ---
 

@@ -11,7 +11,7 @@
 <!-- SEO 元描述 -->
 > 本页面详细讲解 **Telegram怎么注册**、**Telegram账号购买**、**电报怎么注册** 等常见问题。无论您是想在 iPhone、Android 还是电脑桌面端注册 Telegram，本教程都提供完整的图文步骤。针对用户常问的"Telegram不用手机号注册"、"Telegram怎么登录"、"Telegram注册教程"等问题，也提供了多种解决方案，包括使用虚拟号码注册 Telegram 的详细教程。
 
-![Telegram 注册教程封面图](https://camo.githubusercontent.com/86ed4fb0c3acdcae9907ccea544425d675bb6871b3f363ec8bf2c7e5c1ae4782/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313032343233333834362f486f772d746f2d6372656174652d616e2d6163636f756e742d6f6e2d54656c656772616d2e77656270)
+![Telegram 注册教程封面图](./images/telegram-banner.jpg)
 
 ---
 
@@ -60,7 +60,7 @@
 
 在 iPhone 主屏幕上找到 Telegram 应用图标，点击打开。
 
-![点击 Telegram 图标打开应用](https://camo.githubusercontent.com/3a67ccc5cf01cbaf24d6bbe78e9afaf7fbca71d8bebacb07b241643827c86631/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031363230343135332f494d475f32303233313031365f3230333734302e6a7067)
+![点击 Telegram 图标打开应用](./images/iphone-open-app.jpg)
 
 *在 iPhone 上查找并打开 Telegram 应用*
 
@@ -68,7 +68,7 @@
 
 打开 Telegram 应用后，点击 **"开始消息"** 按钮进入注册流程。
 
-![点击开始消息按钮](https://camo.githubusercontent.com/f1002c5d8c61e0efbd4b8433824a6ffd5b12657fb13857824a859932bff334ab/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031363230343434322f494d475f32303233313031365f3230323832382e6a7067)
+![点击开始消息按钮](./images/iphone-start-messaging.jpg)
 
 *开始 Telegram 注册流程*
 
@@ -76,7 +76,7 @@
 
 从下拉菜单中选择您的国家/地区，然后输入您的手机号码。点击 **"继续"** 继续。
 
-![选择国家并输入手机号码](https://camo.githubusercontent.com/f3689ccf0c8444865466f69950320f0d88a0bbf0bbac7517cc237bb9d49d4bc5/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130333130302f456e7465724d6f62696c654e756d626572616e64436c69636b436f6e74696e75652e77656270)
+![选择国家并输入手机号码](./images/iphone-enter-phone.jpg)
 
 *输入手机号码进行 Telegram 验证*
 
@@ -84,7 +84,7 @@
 
 一次性验证码 (OTP) 将发送到您注册的手机号码。输入此验证码以验证您的号码。
 
-![输入接收到的验证码](https://camo.githubusercontent.com/cc0d45a34b4db96358d920cd7c9dfa2e2b1f225a25f8cdb6e9416fc4ad561665/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130333233392f456e746572746865566572696669636174696f6e436f64652e77656270)
+![输入接收到的验证码](./images/iphone-enter-code.jpg)
 
 *输入验证码*
 
@@ -92,7 +92,7 @@
 
 输入您的 **名字** 和 **姓氏**（可选）以完成 Telegram 个人资料设置。
 
-![Telegram 账号创建成功](https://camo.githubusercontent.com/40adbc6825cc93dbe008f117ded582349073a3d7ccf4014f215f038b8a91e7de/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031363230353731372f494d475f32303233313031365f3230333130352e6a7067)
+![Telegram 账号创建成功](./images/iphone-profile-created.jpg)
 
 *您的 Telegram 账号已创建*
 
@@ -108,7 +108,7 @@
 
 在手机上找到 Telegram 图标并点击打开。
 
-![打开 Telegram 应用](https://camo.githubusercontent.com/fb4bfd53e769d0890b98b9f8461fb7a742f98da13ee6ec89cc45c28e902bf2f0/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343132343735302f494d475f32303233313031345f3131323530312d3636302e6a7067)
+![打开 Telegram 应用](./images/android-open-app.jpg)
 
 *在 Android 设备上定位 Telegram*
 
@@ -116,7 +116,7 @@
 
 打开 Telegram 应用后，点击 **"开始消息"** 按钮开始注册。
 
-![点击开始消息](https://camo.githubusercontent.com/03f68d3f37ce88439b1ec026cc4dfdb8f484a61656b705c8f462526953ac262d/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343132343933382f494d475f32303233313031345f3131323533302d3636302e6a7067)
+![点击开始消息](./images/android-start-messaging.jpg)
 
 *在 Android 上开始 Telegram 注册*
 
@@ -124,7 +124,7 @@
 
 选择您的国家/地区并提供您的手机号码进行验证。
 
-![输入手机号码](https://camo.githubusercontent.com/1c4b6c144682eb5fa77b60a5aab36ee071eaee2074c4ec06607f45bd09a752b2/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130333531342f456e746572796f75724d6f62696c654e756d6265722e77656270)
+![输入手机号码](./images/android-enter-phone.jpg)
 
 *提供手机号码用于 Telegram 验证*
 
@@ -132,7 +132,7 @@
 
 输入号码后，等待自动来电确认您的号码。
 
-![等待验证来电](https://camo.githubusercontent.com/3c225bcf3e545ef84c63bda2a3c0d4c6b0aa2251ba4eb07950214a26418a7d2b/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130333635312f57616974666f7243616c6c2e77656270)
+![等待验证来电](./images/android-wait-call.jpg)
 
 *等待 Telegram 验证来电*
 
@@ -140,7 +140,7 @@
 
 在个人资料字段中输入您的名字和姓氏，然后点击箭头继续。
 
-![输入姓名并继续](https://camo.githubusercontent.com/c0dcd19fb21756ca23c7e17bbf2c106b8227be2b5ef0efa6b24ed14018727ed4/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343133303831322f494d475f32303233313031345f3131333030362d3636302e6a7067)
+![输入姓名并继续](./images/android-enter-name.jpg)
 
 *设置您的 Telegram 昵称*
 
@@ -148,7 +148,7 @@
 
 您的 Telegram 账号已就绪！现在您可以发起语音/视频通话、发送消息、加入群组和探索频道。
 
-![Telegram 账号创建成功](https://camo.githubusercontent.com/0bb767c6cfb90a3bd49223b534325a201679da9bb116abecf54b39115910db98/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343133313034372f494d475f32303233313031345f3131333032342d3636302e6a7067)
+![Telegram 账号创建成功](./images/android-account-created.jpg)
 
 *您的 Telegram 账号现已激活*
 
@@ -166,7 +166,7 @@
 
 点击 Telegram 桌面应用图标启动它。
 
-![在桌面端打开 Telegram](https://camo.githubusercontent.com/4ece190b712ad5df0667c91094cdf3524f17e446d0f3971bd1d78485c9949703/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343132313832352f494d475f32303233313031345f3131343734352d2833292e6a7067)
+![在桌面端打开 Telegram](./images/desktop-open-app.jpg)
 
 *打开 Telegram 桌面应用*
 
@@ -174,7 +174,7 @@
 
 点击 **"开始消息"** 按钮继续。
 
-![点击开始消息](https://camo.githubusercontent.com/f8e1933d4ffb7c3a4495d860ccc79eb255d2dd72cebbcf0031fa4bd8bdfa0490/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343132313935362f494d475f32303233313031345f3131343832342e6a7067)
+![点击开始消息](./images/desktop-start-messaging.jpg)
 
 *在桌面端开始 Telegram 注册*
 
@@ -184,7 +184,7 @@
 1. **扫描二维码** - 使用手机扫描显示的二维码
 2. **手机号码** - 点击 **"使用手机号码登录"** 输入您的号码
 
-![选择登录方式](https://camo.githubusercontent.com/cca08c996ffa2ccc77dadd043cea7c7877886918e3101b48779f6c7613d8fb23/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343132333034352f494d475f32303233313031345f3131343930372e6a7067)
+![选择登录方式](./images/desktop-login-options.jpg)
 
 *手机号码登录选项*
 
@@ -192,7 +192,7 @@
 
 选择您的国家，输入您的手机号码，然后点击 **"下一步"**。您将收到 OTP 验证码。
 
-![输入手机号码](https://camo.githubusercontent.com/37af602a26860c9f6b3c00aaa3faa7c07ffb8b5e816dc646fdce1f1857426d59/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130333930302f456e746572796f75724d6f62696c654e756d626572616e64436c69636b6f6e4e65782e77656270)
+![输入手机号码](./images/desktop-enter-phone.jpg)
 
 *为桌面登录提供手机号码*
 
@@ -200,7 +200,7 @@
 
 输入通过短信发送到您手机号码的验证码。
 
-![输入验证码](https://camo.githubusercontent.com/28dfd51c82e45e0ab2f8636b70ec9966f702f49cd6322f9ccf5b98b77943aced/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130343033362f456e746572436f6465616e64436c69636b6f6e4e6578742e77656270)
+![输入验证码](./images/desktop-enter-code.jpg)
 
 *在桌面端验证手机号码*
 
@@ -342,9 +342,9 @@ Telegram 允许在同一设备上使用 **多个账号**：
 | 5 | 选择 **"退出登录"** |
 | 6 | 点击 **"退出登录"** 确认 |
 
-![打开 Telegram 设置](https://camo.githubusercontent.com/3a0b92e3aec55ca3edb38eb8a682402d0e8daf496329e4c3ff71f2fce3f65994/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130343232322f436c69636b6f6e53657474696e67732e77656270)
+![打开 Telegram 设置](./images/click-settings.jpg)
 
-![选择退出登录选项](https://camo.githubusercontent.com/7fbb8ced95cf109750559b93dd5654033623e2997c2a58612421614f0600a229/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130343631382f53656c6563744f675561742e77656270)
+![选择退出登录选项](./images/select-logout.jpg)
 
 ---
 
