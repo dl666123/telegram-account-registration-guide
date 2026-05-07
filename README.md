@@ -1,4 +1,6 @@
-# Telegram Account Registration Guide | Complete Step-by-Step Tutorial (2024)
+# Telegram 怎么注册 | 2024最全注册教程（无需手机号也能注册）
+
+> 🔗 **English Version**: [README_EN.md](./README_EN.md)
 
 <div align="center">
 
@@ -6,444 +8,507 @@
 
 </div>
 
-<!-- SEO Meta Description -->
-> **Complete guide on how to create a Telegram account** - Learn to register on Telegram via iPhone, Android, or desktop. Includes verification without personal phone number, multiple account setup, troubleshooting, and security tips.
+<!-- SEO 元描述 -->
+> 本页面详细讲解 **Telegram怎么注册**、**Telegram账号购买**、**电报怎么注册** 等常见问题。无论您是想在 iPhone、Android 还是电脑桌面端注册 Telegram，本教程都提供完整的图文步骤。针对用户常问的"Telegram不用手机号注册"、"Telegram怎么登录"、"Telegram注册教程"等问题，也提供了多种解决方案，包括使用虚拟号码注册 Telegram 的详细教程。
 
-![Telegram Banner - How to Create Account on Telegram](https://camo.githubusercontent.com/86ed4fb0c3acdcae9907ccea544425d675bb6871b3f363ec8bf2c7e5c1ae4782/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313032343233333834362f486f772d746f2d6372656174652d616e2d6163636f756e742d6f6e2d54656c656772616d2e77656270)
-
-## Table of Contents
-
-- [What is Telegram Messenger](#what-is-telegram-messenger)
-- [How to Create Telegram Account on iPhone](#how-to-create-telegram-account-on-iphone)
-- [How to Create Telegram Account on Android](#how-to-create-telegram-account-on-android)
-- [How to Create Telegram Account on Desktop](#how-to-create-telegram-account-on-desktop)
-- [How to Register Telegram Without Phone Number](#how-to-register-telegram-without-phone-number)
-- [How to Create New Telegram Account with Same Number](#how-to-create-new-telegram-account-with-same-number)
-- [How to Log Out of Telegram](#how-to-log-out-of-telegram)
-- [Telegram Security Settings](#telegram-security-settings)
-- [Troubleshooting Guide](#troubleshooting-guide)
-- [FAQ - Frequently Asked Questions](#faq---frequently-asked-questions)
+![Telegram 注册教程封面图](https://camo.githubusercontent.com/86ed4fb0c3acdcae9907ccea544425d675bb6871b3f363ec8bf2c7e5c1ae4782/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313032343233333834362f486f772d746f2d6372656174652d616e2d6163636f756e742d6f6e2d54656c656772616d2e77656270)
 
 ---
 
-## What is Telegram Messenger
-
-**Telegram** is one of the most popular cloud-based instant messaging applications worldwide. Created by **Pavel Durov** and **Nikolai Durov** in 2013, Telegram has grown to become a go-to platform for millions of users seeking secure, fast, and feature-rich communication.
-
-### Key Features of Telegram
-
-| Feature | Description |
-|---------|-------------|
-| **End-to-End Encryption** | Secure secret chats with optional self-destruct timers |
-| **Cloud Storage** | Access messages from any device simultaneously |
-| **Group Chats** | Support up to 200,000 members |
-| **Channels** | Broadcast messages to unlimited subscribers |
-| **File Sharing** | Share files up to 2GB each |
-| **Cross-Platform** | Available on iOS, Android, Windows, macOS, Linux, and web |
+**您是否正在搜索"Telegram怎么注册"、"电报怎么注册"或"Telegram账号注册"的教程？** 本指南将手把手教您完成 Telegram 账号的创建，包括 iOS、Android 和电脑端的详细步骤，以及无需暴露个人手机号的多种注册方法。无论您是 Telegram 新手还是有账号管理需求，本教程都能帮助您快速上手。
 
 ---
 
-## How to Create Telegram Account on iPhone
+## 目录
 
-Creating a Telegram account on your iPhone is quick and straightforward. Follow these steps:
-
-### Step 1: Open the Telegram App
-
-Locate the Telegram app icon on your iPhone home screen and tap to launch it.
-
-![Tap Telegram icon to open the app](https://camo.githubusercontent.com/3a67ccc5cf01cbaf24d6bbe78e9afaf7fbca71d8bebacb07b241643827c86631/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031363230343135332f494d475f32303233313031365f3230333734302e6a7067)
-
-*Finding and opening the Telegram app on iPhone*
-
-### Step 2: Tap "Start Messaging"
-
-Once the Telegram app opens, tap the **"Start Messaging"** button to proceed to the registration process.
-
-![Tap Start Messaging button](https://camo.githubusercontent.com/f1002c5d8c61e0efbd4b8433824a6ffd5b12657fb13857824a859932bff334ab/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031363230343434322f494d475f32303233313031365f3230323832382e6a7067)
-
-*Starting the Telegram registration process*
-
-### Step 3: Select Country and Enter Phone Number
-
-Select your country from the dropdown menu, then enter your mobile phone number. Tap **"Continue"** to proceed.
-
-![Select country and enter phone number](https://camo.githubusercontent.com/f3689ccf0c8444865466f69950320f0d88a0bbf0bbac7517cc237bb9d49d4bc5/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130333130302f456e7465724d6f62696c654e756d626572616e64436c69636b436f6e74696e75652e77656270)
-
-*Entering phone number for Telegram verification*
-
-### Step 4: Enter Verification Code
-
-A one-time password (OTP) will be sent to your registered phone number. Enter this code to verify your number.
-
-![Enter the verification code received](https://camo.githubusercontent.com/cc0d45a34b4db96358d920cd7c9dfa2e2b1f225a25f8cdb6e9416fc4ad561665/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130333233392f456e746572746865566572696669636174696f6e436f64652e77656270)
-
-*Inputting the verification code*
-
-### Step 5: Set Up Your Profile
-
-Enter your **First Name** and **Last Name** (optional) to complete your Telegram profile setup.
-
-![Telegram account successfully created](https://camo.githubusercontent.com/40adbc6825cc93dbe008f117ded582349073a3d7ccf4014f215f038b8a91e7de/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031363230353731372f494d475f32303233313031365f3230333130352e6a7067)
-
-*Your Telegram account is now created*
-
-**Congratulations!** Your Telegram account has been successfully created.
+- [什么是 Telegram Messenger](#什么是-telegram-messenger)
+- [iPhone/iOS 怎么注册 Telegram](#iphoneios-怎么注册-telegram)
+- [Android 安卓怎么注册 Telegram](#android-安卓怎么注册-telegram)
+- [电脑桌面端怎么注册 Telegram](#电脑桌面端怎么注册-telegram)
+- [Telegram 不用手机号怎么注册](#telegram-不用手机号怎么注册)
+- [Telegram 账号注册相关问题](#telegram-账号注册相关问题)
+- [如何用同一号码创建新 Telegram 账号](#如何用同一号码创建新-telegram-账号)
+- [Telegram 怎么登录和退出](#telegram-怎么登录和退出)
+- [Telegram 安全设置](#telegram-安全设置)
+- [故障排除指南](#故障排除指南)
+- [常见问题解答 (FAQ)](#常见问题解答-faq)
 
 ---
 
-## How to Create Telegram Account on Android
+## 什么是 Telegram Messenger
 
-The process to create a Telegram account on Android is nearly identical to iPhone. Here's how:
+**Telegram** 是全球最受欢迎的云端即时通讯应用之一，很多国内用户也称其为"**电报**"。由 **Pavel Durov** 和 **Nikolai Durov** 于 2013 年创建，Telegram 已成为追求安全、快速和功能丰富通讯的用户首选平台。
 
-### Step 1: Install and Open Telegram
+### Telegram 主要功能
 
-Find the Telegram icon on your phone and tap to open it.
-
-![Open Telegram app](https://camo.githubusercontent.com/fb4bfd53e769d0890b98b9f8461fb7a742f98da13ee6ec89cc45c28e902bf2f0/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343132343735302f494d475f32303233313031345f3131323530312d3636302e6a7067)
-
-*Locating Telegram on Android device*
-
-### Step 2: Tap "Start Messaging"
-
-Open the Telegram app and tap the **"Start Messaging"** button to begin registration.
-
-![Tap Start Messaging](https://camo.githubusercontent.com/03f68d3f37ce88439b1ec026cc4dfdb8f484a61656b705c8f462526953ac262d/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343132343933382f494d475f32303233313031345f3131323533302d3636302e6a7067)
-
-*Starting Telegram registration on Android*
-
-### Step 3: Enter Your Phone Number
-
-Select your country and provide your mobile phone number for verification.
-
-![Enter mobile number](https://camo.githubusercontent.com/1c4b6c144682eb5fa77b60a5aab36ee071eaee2074c4ec06607f45bd09a752b2/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130333531342f456e746572796f75724d6f62696c654e756d6265722e77656270)
-
-*Providing phone number for Telegram*
-
-### Step 4: Wait for the Call
-
-After entering your number, wait for an automated call to confirm your number.
-
-![Wait for verification call](https://camo.githubusercontent.com/3c225bcf3e545ef84c63bda2a3c0d4c6b0aa2251ba4eb07950214a26418a7d2b/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130333635312f57616974666f7243616c6c2e77656270)
-
-*Waiting for Telegram verification call*
-
-### Step 5: Enter Your Name
-
-Enter your first name and last name in the profile fields, then tap the arrow to continue.
-
-![Enter name and continue](https://camo.githubusercontent.com/c0dcd19fb21756ca23c7e17bbf2c106b8227be2b5ef0efa6b24ed14018727ed4/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343133303831322f494d475f32303233313031345f3131333030362d3636302e6a7067)
-
-*Setting up your Telegram profile name*
-
-### Step 6: Account Created
-
-Your Telegram account is now ready! You can now make voice/video calls, send messages, join groups, and explore channels.
-
-![Telegram account created successfully](https://camo.githubusercontent.com/0bb767c6cfb90a3bd49223b534325a201679da9bb116abecf54b39115910db98/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343133313034372f494d475f32303233313031345f3131333032342d3636302e6a7067)
-
-*Your Telegram account is now active*
-
-**See also:**
-- [How to Create a Telegram Channel](https://www.geeksforgeeks.org/how-to-create-a-telegram-channel/)
-- [How to Add New Contact on Telegram](https://www.geeksforgeeks.org/add-a-new-contact-on-telegram/)
+| 功能 | 说明 |
+|------|------|
+| **端到端加密** | 私密聊天支持可选的自毁计时器 |
+| **云端存储** | 可在任何设备上同时访问消息 |
+| **群组聊天** | 最多支持 200,000 名成员 |
+| **频道** | 向无限订阅者广播消息 |
+| **文件分享** | 单个文件最高支持 2GB |
+| **跨平台** | 支持 iOS、Android、Windows、macOS、Linux 和网页版 |
 
 ---
 
-## How to Create Telegram Account on Desktop
+## iPhone/iOS 怎么注册 Telegram
 
-You can also create a Telegram account using your computer. Here's how:
+在 iPhone 上创建 Telegram 账号既快捷又简单。按照以下步骤操作：
 
-### Step 1: Open Telegram Desktop App
+### 步骤 1：打开 Telegram 应用
 
-Click the Telegram desktop application icon to launch it.
+在 iPhone 主屏幕上找到 Telegram 应用图标，点击打开。
 
-![Open Telegram on desktop](https://camo.githubusercontent.com/4ece190b712ad5df0667c91094cdf3524f17e446d0f3971bd1d78485c9949703/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343132313832352f494d475f32303233313031345f3131343734352d2833292e6a7067)
+![点击 Telegram 图标打开应用](https://camo.githubusercontent.com/3a67ccc5cf01cbaf24d6bbe78e9afaf7fbca71d8bebacb07b241643827c86631/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031363230343135332f494d475f32303233313031365f3230333734302e6a7067)
 
-*Opening Telegram desktop application*
+*在 iPhone 上查找并打开 Telegram 应用*
 
-### Step 2: Tap "Start Messaging"
+### 步骤 2：点击"开始消息"
 
-Click the **"Start Messaging"** button to proceed.
+打开 Telegram 应用后，点击 **"开始消息"** 按钮进入注册流程。
 
-![Click Start Messaging](https://camo.githubusercontent.com/f8e1933d4ffb7c3a4495d860ccc79eb255d2dd72cebbcf0031fa4bd8bdfa0490/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343132313935362f494d475f32303233313031345f3131343832342e6a7067)
+![点击开始消息按钮](https://camo.githubusercontent.com/f1002c5d8c61e0efbd4b8433824a6ffd5b12657fb13857824a859932bff334ab/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031363230343434322f494d475f32303233313031365f3230323832382e6a7067)
 
-*Starting Telegram registration on desktop*
+*开始 Telegram 注册流程*
 
-### Step 3: Login Options - QR Code or Phone Number
+### 步骤 3：选择国家/地区并输入手机号码
 
-You have two login options:
-1. **Scan QR Code** - Use your phone to scan the displayed QR code
-2. **Phone Number** - Click **"Login with Phone Number"** to enter your number
+从下拉菜单中选择您的国家/地区，然后输入您的手机号码。点击 **"继续"** 继续。
 
-![Choose login method](https://camo.githubusercontent.com/cca08c996ffa2ccc77dadd043cea7c7877886918e3101b48779f6c7613d8fb23/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303233313031343132333034352f494d475f32303233313031345f3131343930372e6a7067)
+![选择国家并输入手机号码](https://camo.githubusercontent.com/f3689ccf0c8444865466f69950320f0d88a0bbf0bbac7517cc237bb9d49d4bc5/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130333130302f456e7465724d6f62696c654e756d626572616e64436c69636b436f6e74696e75652e77656270)
 
-*Login with phone number option*
+*输入手机号码进行 Telegram 验证*
 
-### Step 4: Enter Your Phone Number
+### 步骤 4：输入验证码
 
-Select your country, enter your phone number, and click **"Next"**. You'll receive an OTP code.
+一次性验证码 (OTP) 将发送到您注册的手机号码。输入此验证码以验证您的号码。
 
-![Enter phone number](https://camo.githubusercontent.com/37af602a26860c9f6b3c00aaa3faa7c07ffb8b5e816dc646fdce1f1857426d59/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130333930302f456e746572796f75724d6f62696c654e756d626572616e64436c69636b6f6e4e65782e77656270)
+![输入接收到的验证码](https://camo.githubusercontent.com/cc0d45a34b4db96358d920cd7c9dfa2e2b1f225a25f8cdb6e9416fc4ad561665/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130333233392f456e746572746865566572696669636174696f6e436f64652e77656270)
 
-*Providing phone number for desktop login*
+*输入验证码*
 
-### Step 5: Enter Verification Code
+### 步骤 5：设置您的个人资料
 
-Enter the verification code sent to your phone number via SMS.
+输入您的 **名字** 和 **姓氏**（可选）以完成 Telegram 个人资料设置。
 
-![Enter verification code](https://camo.githubusercontent.com/28dfd51c82e45e0ab2f8636b70ec9966f702f49cd6322f9ccf5b98b77943aced/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130343033362f456e746572436f6465616e64436c69636b6f6e4e6578742e77656270)
+![Telegram 账号创建成功](https://camo.githubusercontent.com/40adbc6825cc93dbe008f117ded582349073a3d7ccf4014f215f038b8a91e7de/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031363230353731372f494d475f32303233313031365f3230333130352e6a7067)
 
-*Verifying phone number on desktop*
+*您的 Telegram 账号已创建*
 
-**Your Telegram account is now active on desktop!**
+**恭喜！** 您的 Telegram 账号已成功创建。
 
 ---
 
-## How to Register Telegram Without Phone Number
+## Android 安卓怎么注册 Telegram
 
-Want to use Telegram without exposing your personal phone number? Here are **5 verified methods**:
+在 Android 上创建 Telegram 账号的步骤与 iPhone 基本相同。以下是操作方法：
 
-### Method 1: Use a Virtual Phone Number (VoIP)
+### 步骤 1：安装并打开 Telegram
 
-Virtual numbers from services like **Google Voice**, **TextNow**, or **TextFree** can receive SMS verification codes.
+在手机上找到 Telegram 图标并点击打开。
 
-| Step | Action |
-|------|--------|
-| 1 | Register with a VoIP service provider |
-| 2 | Get your free virtual number |
-| 3 | Download and open Telegram app |
-| 4 | Enter the VoIP number during registration |
-| 5 | Enter the verification code received |
+![打开 Telegram 应用](https://camo.githubusercontent.com/fb4bfd53e769d0890b98b9f8461fb7a742f98da13ee6ec89cc45c28e902bf2f0/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343132343735302f494d475f32303233313031345f3131323530312d3636302e6a7067)
 
-> **Note:** Some virtual numbers may not work with Telegram due to restrictions. Try another service if needed.
+*在 Android 设备上定位 Telegram*
 
-### Method 2: Use a Burner Phone
+### 步骤 2：点击"开始消息"
 
-A **burner phone** is a temporary prepaid phone that provides a real number without linking to your personal information.
+打开 Telegram 应用后，点击 **"开始消息"** 按钮开始注册。
 
-| Step | Action |
-|------|--------|
-| 1 | Purchase a cheap prepaid phone or SIM card |
-| 2 | Insert the SIM card and ensure it can receive SMS |
-| 3 | Download and open Telegram app |
-| 4 | Use the temporary number for registration |
-| 5 | Enter the verification code |
+![点击开始消息](https://camo.githubusercontent.com/03f68d3f37ce88439b1ec026cc4dfdb8f484a61656b705c8f462526953ac262d/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343132343933382f494d475f32303233313031345f3131323533302d3636302e6a7067)
 
-### Method 3: Use a Landline Phone
+*在 Android 上开始 Telegram 注册*
 
-If you have a **landline**, you can receive the verification code via voice call instead of SMS.
+### 步骤 3：输入您的手机号码
 
-| Step | Action |
-|------|--------|
-| 1 | Open Telegram app and start registration |
-| 2 | Enter your landline number |
-| 3 | When SMS verification fails, select **"Call Me"** option |
-| 4 | Receive the code via automated voice call |
-| 5 | Enter the code to complete setup |
+选择您的国家/地区并提供您的手机号码进行验证。
 
-### Method 4: Get a Dedicated SIM Card for Online Use
+![输入手机号码](https://camo.githubusercontent.com/1c4b6c144682eb5fa77b60a5aab36ee071eaee2074c4ec06607f45bd09a752b2/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130333531342f456e746572796f75724d6f62696c654e756d6265722e77656270)
 
-Purchase a **low-cost prepaid SIM card** specifically for online registrations.
+*提供手机号码用于 Telegram 验证*
 
-| Step | Action |
-|------|--------|
-| 1 | Get a prepaid SIM that doesn't require personal info |
-| 2 | Activate the SIM card |
-| 3 | Use the number for Telegram verification |
+### 步骤 4：等待来电
 
-### Method 5: Use Google Voice (US Only)
+输入号码后，等待自动来电确认您的号码。
 
-US users can get a free number from **Google Voice** that can receive SMS and calls.
+![等待验证来电](https://camo.githubusercontent.com/3c225bcf3e545ef84c63bda2a3c0d4c6b0aa2251ba4eb07950214a26418a7d2b/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130333635312f57616974666f7243616c6c2e77656270)
 
-| Step | Action |
-|------|--------|
-| 1 | Create a Google Voice account |
-| 2 | Choose a free Google Voice number |
-| 3 | Use this number for Telegram registration |
-| 4 | Enter the verification code received |
+*等待 Telegram 验证来电*
+
+### 步骤 5：输入您的姓名
+
+在个人资料字段中输入您的名字和姓氏，然后点击箭头继续。
+
+![输入姓名并继续](https://camo.githubusercontent.com/c0dcd19fb21756ca23c7e17bbf2c106b8227be2b5ef0efa6b24ed14018727ed4/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343133303831322f494d475f32303233313031345f3131333030362d3636302e6a7067)
+
+*设置您的 Telegram 昵称*
+
+### 步骤 6：账号创建完成
+
+您的 Telegram 账号已就绪！现在您可以发起语音/视频通话、发送消息、加入群组和探索频道。
+
+![Telegram 账号创建成功](https://camo.githubusercontent.com/0bb767c6cfb90a3bd49223b534325a201679da9bb116abecf54b39115910db98/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343133313034372f494d475f32303233313031345f3131333032342d3636302e6a7067)
+
+*您的 Telegram 账号现已激活*
+
+**另请参阅：**
+- [如何创建 Telegram 频道](https://www.geeksforgeeks.org/how-to-create-a-telegram-channel/)
+- [如何在 Telegram 上添加新联系人](https://www.geeksforgeeks.org/add-a-new-contact-on-telegram/)
 
 ---
 
-## How to Create New Telegram Account with Same Number
+## 电脑桌面端怎么注册 Telegram
 
-**Important:** Telegram only allows **one account per phone number**. However, here are workarounds:
+您也可以使用电脑创建 Telegram 账号。以下是操作方法：
 
-### Method 1: Delete Existing Account and Create New
+### 步骤 1：打开 Telegram 桌面应用
 
-1. Go to [Telegram Deactivation Page](https://my.telegram.org/auth?to=delete)
-2. Enter your phone number in international format (+1234567890)
-3. Receive and enter the confirmation code
-4. Confirm account deletion
-5. Wait 7 days, then register with the same number again
+点击 Telegram 桌面应用图标启动它。
 
-> ⚠️ **Warning:** Deleting your account will permanently erase all messages, contacts, and groups.
+![在桌面端打开 Telegram](https://camo.githubusercontent.com/4ece190b712ad5df0667c91094cdf3524f17e446d0f3971bd1d78485c9949703/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343132313832352f494d475f32303233313031345f3131343734352d2833292e6a7067)
 
-### Method 2: Use Telegram's Multi-Account Feature
+*打开 Telegram 桌面应用*
 
-Telegram allows **multiple accounts** on the same device:
+### 步骤 2：点击"开始消息"
 
-1. Open Telegram app
-2. Tap the menu (three horizontal lines)
-3. Tap your phone number at the top
-4. Select **"Add Account"**
-5. Enter a different phone number for the new account
-6. Switch between accounts anytime via the menu
+点击 **"开始消息"** 按钮继续。
 
----
+![点击开始消息](https://camo.githubusercontent.com/f8e1933d4ffb7c3a4495d860ccc79eb255d2dd72cebbcf0031fa4bd8bdfa0490/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343132313935362f494d475f32303233313031345f3131343832342e6a7067)
 
-## How to Log Out of Telegram
+*在桌面端开始 Telegram 注册*
 
-### On Mobile (iPhone/Android)
+### 步骤 3：选择登录方式 - 二维码或手机号码
 
-| Step | Action |
-|------|--------|
-| 1 | Open Telegram app |
-| 2 | Tap the menu icon (three lines) |
-| 3 | Tap **"Settings"** |
-| 4 | Tap the three dots icon |
-| 5 | Select **"Log Out"** |
-| 6 | Confirm by tapping **"Log Out"** |
+您有两个登录选项：
+1. **扫描二维码** - 使用手机扫描显示的二维码
+2. **手机号码** - 点击 **"使用手机号码登录"** 输入您的号码
 
-![Open Settings in Telegram](https://camo.githubusercontent.com/3a0b92e3aec55ca3edb38eb8a682402d0e8daf496329e4c3ff71f2fce3f65994/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130343232322f436c69636b6f6e53657474696e67732e77656270)
+![选择登录方式](https://camo.githubusercontent.com/cca08c996ffa2ccc77dadd043cea7c7877886918e3101b48779f6c7613d8fb23/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303233313031343132333034352f494d475f32303233313031345f3131343930372e6a7067)
 
-![Select Log Out option](https://camo.githubusercontent.com/7fbb8ced95cf109750559b93dd5654033623e2997c2a58612421614f0600a229/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672f77702d636f6e74656e742f75706c6f6164732f32303234303932343130343631382f53656c6563744f675561742e77656270)
+*手机号码登录选项*
 
----
+### 步骤 4：输入您的手机号码
 
-## Telegram Security Settings
+选择您的国家，输入您的手机号码，然后点击 **"下一步"**。您将收到 OTP 验证码。
 
-After creating your account, enhance your security with these settings:
+![输入手机号码](https://camo.githubusercontent.com/37af602a26860c9f6b3c00aaa3faa7c07ffb8b5e816dc646fdce1f1857426d59/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130333930302f456e746572796f75724d6f62696c654e756d626572616e64436c69636b6f6e4e65782e77656270)
 
-### Enable Two-Factor Authentication
+*为桌面登录提供手机号码*
 
-1. Go to **Settings** → **Privacy and Security**
-2. Tap **Two-Step Verification**
-3. Create a strong password
-4. Set a recovery email
+### 步骤 5：输入验证码
 
-### Adjust Privacy Settings
+输入通过短信发送到您手机号码的验证码。
 
-- **Last Seen & Online**: Set who can see your status
-- **Profile Photo**: Control who can view your photo
-- **Forwarded Messages**: Hide your identity when forwarding
-- **Groups**: Limit who can add you to groups
+![输入验证码](https://camo.githubusercontent.com/28dfd51c82e45e0ab2f8636b70ec9966f702f49cd6322f9ccf5b98b77943aced/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130343033362f456e746572436f6465616e64436c69636b6f6e4e6578742e77656270)
 
-### Enable Passcode Lock
+*在桌面端验证手机号码*
 
-1. **Settings** → **Privacy and Security** → **Passcode Lock**
-2. Set a 4-digit PIN or use biometric unlock
-3. Enable **Auto-lock** feature
+**您的 Telegram 账号现已可在桌面端使用！**
 
 ---
 
-## Troubleshooting Guide
+## Telegram 不用手机号怎么注册
 
-### Common Issues and Solutions
+想要使用 Telegram 但不想暴露您的个人手机号码？以下是 **5 种经过验证的方法**，解决"Telegram不用手机号注册"的问题：
 
-| Problem | Solution |
-|---------|----------|
-| **Didn't receive SMS code** | Wait 5 minutes, try "Call Me" option, or use a different number |
-| **Phone number already registered** | Reset password or use a different number |
-| **Can't receive calls on landline** | Ensure your landline can receive international calls |
-| **Virtual number not accepted** | Try a different VoIP service or prepaid SIM |
-| **Account banned** | Contact Telegram support with your number |
-| **Verification code expired** | Request a new code within the valid time window |
+### 方法 1：使用虚拟电话号码 (VoIP)
 
-### Verification Issues
+来自 **Google Voice**、**TextNow** 或 **TextFree** 等服务的虚拟号码可以接收短信验证码。
 
-- **SMS not arriving**: Check your network connection, disable Do Not Disturb mode, or add Telegram to your SMS filter whitelist
-- **Wrong country code**: Ensure you're using the correct international prefix (+1 for US, +44 for UK, etc.)
-- **Phone number format**: Enter number without leading zeros or spaces
+| 步骤 | 操作 |
+|------|------|
+| 1 | 注册 VoIP 服务提供商 |
+| 2 | 获取您的免费虚拟号码 |
+| 3 | 下载并打开 Telegram 应用 |
+| 4 | 注册时输入 VoIP 号码 |
+| 5 | 输入接收到的验证码 |
 
----
+> **注意：** 由于限制，某些虚拟号码可能无法与 Telegram 配合使用。如有需要，请尝试其他服务。
 
-## FAQ - Frequently Asked Questions
+### 方法 2：使用一次性手机
 
-### General Questions
+**一次性手机** 是一种临时预付费手机，提供真实号码但不与您的个人信息关联。
 
-#### How do I create a Telegram account?
-To create a Telegram account, download the app, enter your phone number, and verify using the SMS code. You can also register via desktop app or web version.
+| 步骤 | 操作 |
+|------|------|
+| 1 | 购买廉价预付费手机或 SIM 卡 |
+| 2 | 插入 SIM 卡并确保可以接收短信 |
+| 3 | 下载并打开 Telegram 应用 |
+| 4 | 注册时使用临时号码 |
+| 5 | 输入验证码 |
 
-#### Can I create 2 Telegram accounts?
-Yes! You can have multiple Telegram accounts on the same device using different phone numbers. Use Telegram's built-in multi-account feature to switch between them.
+### 方法 3：使用固定电话号码
 
-#### Can I use Telegram without a phone number?
-While Telegram requires phone verification, you can use virtual numbers, burner phones, or landlines to register without exposing your personal number.
+如果您有 **固定电话**，您可以通过语音电话接收验证码。
 
-#### Can I create a Telegram account with email?
-No, Telegram doesn't support email-only registration. A phone number is required for verification, but you can use alternative numbers as described above.
+| 步骤 | 操作 |
+|------|------|
+| 1 | 打开 Telegram 应用开始注册 |
+| 2 | 输入您的固定电话号码 |
+| 3 | 当短信验证失败时，选择 **"呼叫我"** 选项 |
+| 4 | 通过自动语音获取验证码 |
+| 5 | 输入验证码完成设置 |
 
-#### Can I use the same number for 2 Telegram accounts?
-No, each phone number can only be associated with one Telegram account. You'll need a different number for each account.
+### 方法 4：获取专用上网 SIM 卡
 
-### Security Questions
+购买一张专门用于在线注册的 **低成本预付费 SIM 卡**。
 
-#### Is Telegram safe to use?
-Yes, Telegram offers end-to-end encryption for secret chats, two-factor authentication, and secure cloud storage. Regular chats use client-server encryption.
+| 步骤 | 操作 |
+|------|------|
+| 1 | 获取无需个人信息的预付费 SIM 卡 |
+| 2 | 激活 SIM 卡 |
+| 3 | 使用该号码进行 Telegram 验证 |
 
-#### Are virtual numbers safe for Telegram verification?
-Yes, reputable virtual number providers like Google Voice are generally safe. For maximum security, consider paid services with good reviews.
+### 方法 5：使用 Google Voice（仅限美国）
 
-#### Is using a landline for Telegram verification safe?
-Yes, as long as your landline can receive voice calls for verification purposes.
+美国用户可以从 **Google Voice** 获取免费号码，该号码可以接收短信和电话。
 
-### Account Management
-
-#### Can I change my Telegram phone number later?
-Yes, Telegram allows you to change your number in Settings without losing your chats or contacts.
-
-#### Are disposable phone numbers reliable?
-Disposable numbers are convenient and quick, but they may not provide long-term reliability or security since they're often publicly available.
-
-### Device-Specific Questions
-
-#### How to create Telegram account on iPhone?
-Download Telegram from App Store, tap "Start Messaging", enter your number, verify via SMS, and set up your profile.
-
-#### How to create Telegram account on Android?
-Download Telegram from Google Play, follow the same registration process as iPhone, and verify your phone number.
-
-#### How to create Telegram account on PC/Mac?
-Download Telegram Desktop or use the web version at web.telegram.org, then register using your phone number.
-
-#### How to create Telegram account with US number?
-Simply enter your US phone number (+1 area code) during registration. Telegram works with any international number.
+| 步骤 | 操作 |
+|------|------|
+| 1 | 创建 Google Voice 账户 |
+| 2 | 选择一个免费的 Google Voice 号码 |
+| 3 | 使用此号码进行 Telegram 注册 |
+| 4 | 输入收到的验证码 |
 
 ---
 
-## Additional Resources
+## Telegram 账号注册相关问题
 
-- [How to Create a Telegram Channel](https://www.geeksforgeeks.org/how-to-create-a-telegram-channel/)
-- [How to Create a Group in Telegram](https://www.geeksforgeeks.org/how-to-create-a-group-in-telegram/)
-- [How to Generate Telegram QR Code](https://www.geeksforgeeks.org/how-to-generate-telegram-qr-code/)
-- [How to Make a Call on Telegram](https://www.geeksforgeeks.org/how-to-make-a-call-on-telegram/)
+### 如何购买 Telegram 账号？
 
----
+如果您不想自己注册，可以寻找可靠的 Telegram 账号购买渠道。购买时请注意选择有质保的卖家，并确认账号可以正常登录使用。
 
-## Conclusion
+### Telegram 注册需要哪些信息？
 
-Creating a Telegram account is quick, free, and straightforward. Whether you're using a smartphone, tablet, or desktop computer, you can have your account set up in just a few minutes. Remember these key points:
+注册 Telegram 账号需要准备：
+- 一个可以接收短信或电话的手机号码
+- 您的姓名（注册时填写）
+- 下载好的 Telegram 应用
 
-✅ Download Telegram from official app stores
-✅ Enter a valid phone number for verification
-✅ Choose your preferred login method (SMS or call)
-✅ Enable two-factor authentication for enhanced security
-✅ Explore alternative verification methods if privacy is a concern
+### Telegram 注册失败怎么办？
 
-**Start your Telegram journey today and enjoy secure, fast, and feature-rich messaging!**
-
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+常见原因及解决方法：
+- **号码被注册**：该号码已关联其他 Telegram 账号
+- **无法接收验证码**：尝试语音验证或更换网络
+- **地区限制**：部分地区可能需要特殊网络设置
 
 ---
 
-## Contributing
+## 如何用同一号码创建新 Telegram 账号
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+**重要提示：** Telegram 每个电话号码 **只允许创建一个账号**。但是，这里有一些变通方法：
+
+### 方法 1：删除现有账号并创建新账号
+
+1. 访问 [Telegram 注销页面](https://my.telegram.org/auth?to=delete)
+2. 以国际格式输入您的电话号码 (+1234567890)
+3. 接收并输入确认码
+4. 确认账号删除
+5. 等待 7 天，然后用相同号码重新注册
+
+> ⚠️ **警告：** 删除您的账号将永久清除所有消息、联系人和群组。
+
+### 方法 2：使用 Telegram 多账号功能
+
+Telegram 允许在同一设备上使用 **多个账号**：
+
+1. 打开 Telegram 应用
+2. 点击菜单（三条横线）
+3. 点击顶部的您的电话号码
+4. 选择 **"添加账号"**
+5. 输入不同电话号码的新账号
+6. 随时通过菜单在账号之间切换
 
 ---
 
-*Last updated: 2024*
+## Telegram 怎么登录和退出
+
+### 在移动端 (iPhone/Android) 登录
+
+如果您已经有了 Telegram 账号，只需要：
+1. 下载并打开 Telegram 应用
+2. 输入注册时使用的手机号码
+3. 输入收到的验证码即可登录
+
+### 在移动端 (iPhone/Android) 退出登录
+
+| 步骤 | 操作 |
+|------|------|
+| 1 | 打开 Telegram 应用 |
+| 2 | 点击菜单图标（三条线） |
+| 3 | 点击 **"设置"** |
+| 4 | 点击三个点图标 |
+| 5 | 选择 **"退出登录"** |
+| 6 | 点击 **"退出登录"** 确认 |
+
+![打开 Telegram 设置](https://camo.githubusercontent.com/3a0b92e3aec55ca3edb38eb8a682402d0e8daf496329e4c3ff71f2fce3f65994/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130343232322f436c69636b6f6e53657474696e67732e77656270)
+
+![选择退出登录选项](https://camo.githubusercontent.com/7fbb8ced95cf109750559b93dd5654033623e2997c2a58612421614f0600a229/68747470733a2f2f6d656469612e6765656b73666f726765656b732e6f72672d75706c6f6164732f32303234303932343130343631382f53656c6563744f675561742e77656270)
+
+---
+
+## Telegram 安全设置
+
+创建账号后，通过以下设置增强您的安全性：
+
+### 启用两步验证
+
+1. 进入 **设置** → **隐私与安全**
+2. 点击 **两步验证**
+3. 创建一个强密码
+4. 设置恢复邮箱
+
+### 调整隐私设置
+
+- **最后上线时间和在线状态**：设置谁可以看到您的状态
+- **头像照片**：控制谁可以查看您的照片
+- **转发的消息**：转发时隐藏您的身份
+- **群组**：限制谁可以将您添加到群组
+
+### 启用密码锁
+
+1. **设置** → **隐私与安全** → **密码锁**
+2. 设置 4 位 PIN 码或使用生物识别解锁
+3. 启用 **自动锁定** 功能
+
+---
+
+## 故障排除指南
+
+### 常见问题及解决方案
+
+| 问题 | 解决方案 |
+|------|----------|
+| **未收到短信验证码** | 等待 5 分钟，尝试"呼叫我"选项，或使用其他号码 |
+| **手机号码已被注册** | 重置密码或使用其他号码 |
+| **固定电话无法接收来电** | 确保您的固定电话可以接收国际电话 |
+| **虚拟号码不被接受** | 尝试其他 VoIP 服务或预付费 SIM |
+| **账号被封禁** | 联系 Telegram 客服并提供您的号码 |
+| **验证码过期** | 在有效时间窗口内请求新验证码 |
+
+### 验证问题
+
+- **短信未到达**：检查网络连接，关闭勿扰模式，或将 Telegram 添加到短信白名单
+- **国家代码错误**：确保使用正确的国际前缀（美国 +1，英国 +44 等）
+- **电话号码格式**：输入号码时不带前导零或空格
+
+---
+
+## 常见问题解答 (FAQ)
+
+### 基础问题
+
+#### 如何创建 Telegram 账号？
+要创建 Telegram 账号，请下载应用，输入您的手机号码，然后使用短信验证码进行验证。您也可以通过桌面应用或网页版注册。
+
+#### 我可以创建 2 个 Telegram 账号吗？
+可以！您可以使用不同的手机号码在同一设备上拥有多个 Telegram 账号。使用 Telegram 内置的多账号功能可以在它们之间切换。
+
+#### Telegram 不用手机号可以注册吗？
+虽然 Telegram 需要电话验证，但您可以使用虚拟号码、一次性手机或固定电话注册，而不暴露您的个人号码。
+
+#### 可以用邮箱创建 Telegram 账号吗？
+不能，Telegram 不支持仅使用邮箱注册。需要手机号码进行验证，但您可以使用上述替代号码。
+
+#### 可以用同一号码创建 2 个 Telegram 账号吗？
+不能，每个电话号码只能关联一个 Telegram 账号。每个账号需要一个不同的号码。
+
+#### Telegram 注册收不到验证码怎么办？
+尝试以下方法：
+- 等待 5-10 分钟后重新获取
+- 选择"呼叫我"通过电话接收验证码
+- 更换网络环境后重试
+- 检查手机是否设置了短信拦截
+
+#### 电报怎么注册最简单？
+最简单的方法是使用自己的手机号码注册，只需几分钟即可完成。如果担心隐私问题，可以使用虚拟号码或固定电话注册。
+
+### 安全问题
+
+#### Telegram 安全吗？
+是的，Telegram 为私密聊天提供端到端加密、两步验证和安全云存储。普通聊天使用客户端-服务器加密。
+
+#### 虚拟号码用于 Telegram 验证安全吗？
+是的，Google Voice 等信誉良好的虚拟号码提供商通常是安全的。为获得最大安全性，请考虑使用评价良好的付费服务。
+
+#### 使用固定电话进行 Telegram 验证安全吗？
+是的，只要您的固定电话可以接收语音电话进行验证就是安全的。
+
+### 账号管理
+
+#### 以后可以更改我的 Telegram 电话号码吗？
+是的，Telegram 允许您在设置中更改电话号码，而不会丢失聊天记录或联系人。
+
+#### 一次性电话号码可靠吗？
+一次性号码快捷方便，但由于是公开的，可能无法提供长期可靠性或安全性。
+
+#### Telegram 账号可以购买吗？
+可以，但购买账号存在一定风险。建议选择信誉良好的渠道，并确认账号可以正常登录和使用。
+
+### 设备相关问题
+
+#### 如何在 iPhone 上创建 Telegram 账号？
+从 App Store 下载 Telegram，点击"开始消息"，输入您的号码，通过短信验证，然后设置您的个人资料。
+
+#### 如何在 Android 上创建 Telegram 账号？
+从 Google Play 下载 Telegram，按照与 iPhone 相同的注册流程操作，并验证您的手机号码。
+
+#### 如何在 PC/Mac 上创建 Telegram 账号？
+下载 Telegram Desktop 或使用网页版 web.telegram.org，然后使用您的手机号码注册。
+
+#### 如何用美国号码创建 Telegram 账号？
+只需在注册时输入您的美国电话号码（+1 区号）。Telegram 适用于任何国际号码。
+
+### 中文用户常见问题
+
+#### Telegram 国内怎么注册？
+在国内注册 Telegram 需要特殊网络环境。注册成功后在国内使用时也需要保持网络连接。
+
+#### Telegram 注册显示被禁止怎么办？
+这通常是由于网络环境问题导致的。尝试更换网络或使用其他验证方式。
+
+#### Telegram 怎么设置中文？
+Telegram 本身支持中文界面。在设置中找到语言选项，选择"简体中文"即可。
+
+#### Telegram 注册后如何添加联系人？
+注册完成后，您可以通过手机号码搜索添加联系人，或者让联系人通过搜索您的号码找到您。
+
+---
+
+## 其他资源
+
+- [如何创建 Telegram 频道](https://www.geeksforgeeks.org/how-to-create-a-telegram-channel/)
+- [如何在 Telegram 上创建群组](https://www.geeksforgeeks.org/how-to-create-a-group-in-telegram/)
+- [如何生成 Telegram 二维码](https://www.geeksforgeeks.org/how-to-generate-telegram-qr-code/)
+- [如何在 Telegram 上拨打电话](https://www.geeksforgeeks.org/how-to-make-a-call-on-telegram/)
+
+---
+
+## 结语
+
+创建 Telegram 账号快捷、免费且简单。无论您使用的是智能手机、平板电脑还是台式电脑，都只需几分钟即可完成设置。请记住以下要点：
+
+✅ 从官方应用商店下载 Telegram
+✅ 输入有效的手机号码进行验证
+✅ 选择您喜欢的登录方式（短信或来电）
+✅ 启用两步验证以增强安全性
+✅ 如有隐私顾虑，请探索替代验证方法
+
+**立即开始您的 Telegram 之旅，享受安全、快速和功能丰富的通讯体验！**
+
+---
+
+## 许可证
+
+本项目是开源的，基于 [MIT 许可证](LICENSE)。
+
+---
+
+## 贡献
+
+欢迎贡献！请随时提交 Pull Request。
+
+---
+
+*最后更新：2024 年*
